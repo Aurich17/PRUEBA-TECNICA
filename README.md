@@ -2,7 +2,7 @@
 
 ### **1️⃣ Clonar el Repositorio**
 ```bash
-git clone https://github.com/tuusuario/prueba-php-ddd.git
+git clone https://github.com/Aurich17/PRUEBA-TECNICA.git
 cd prueba-php-ddd
 
 ### **2️⃣ Levantar los Contenedores con Docker**
